@@ -1,4 +1,4 @@
-🚀### DSA Small Projects – C++ Implementations
+🚀 DSA Small Projects – C++ Implementations
 
 Welcome to my repository of Data Structures & Algorithm (DSA) based mini projects in C++.
 This repo is focused on building strong fundamentals by implementing concepts from scratch without relying heavily on built-in libraries.
